@@ -1,7 +1,7 @@
 # Custom PyTorch CUDA layer
 
 # Usage
-Install python module: `./setup.py`
+Install python module: `./setup.sh`
 
 Example:
 ```python
