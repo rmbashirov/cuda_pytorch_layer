@@ -1,0 +1,15 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+.idea
+*/.idea/*
+
+__pycache__
+*/__pycache__/*
+
+.vscode
+*/.vscode/*
+
+/build
+/dist
+/cuda_pytorch_layer.egg-info
