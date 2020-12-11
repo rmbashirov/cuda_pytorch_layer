@@ -16,5 +16,5 @@ b = torch.rand(15, 10, device=device)
 result = mult_layer(a, b)
 ```
 
-[Example](./example/check.ipynb) where backprob is tested. 
+[Example](./example/check.ipynb) where backprop is tested. 
 
